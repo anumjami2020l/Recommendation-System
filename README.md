@@ -9,7 +9,6 @@ This repository contains **two movie recommendation applications** built with **
 
 ## 📂 Project Structure
 
-.
 ├── content.py # Content-Based Filtering app
 
 ├── collbartive.py # Collaborative Filtering app
