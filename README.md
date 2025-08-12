@@ -11,16 +11,18 @@ This repository contains **two movie recommendation applications** built with **
 
 .
 ├── content.py # Content-Based Filtering app
-├── collbartive.py # Collaborative Filtering app
-├── movies.csv # Movie metadata for collaborative filtering
-├── ratings.csv # User ratings dataset for collaborative filtering
-├── tmdb_5000_credits.csv # Movie credits for content-based filtering
-├── tmdb_5000_movies.csv # Movie details for content-based filtering
-└── README.md # Project documentation
 
-yaml
-Copy
-Edit
+├── collbartive.py # Collaborative Filtering app
+
+├── movies.csv # Movie metadata for collaborative filtering
+
+├── ratings.csv # User ratings dataset for collaborative filtering
+
+├── tmdb_5000_credits.csv # Movie credits for content-based filtering
+
+├── tmdb_5000_movies.csv # Movie details for content-based filtering
+
+└── README.md # Project documentation
 
 ---
 
